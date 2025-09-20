@@ -166,10 +166,14 @@ export default function Hero() {
             Get In Touch
           </button>
           
-          <button className="btn-glass flex items-center gap-2 group">
+          <a
+            href="/Hareen_Edla_Resume.pdf"
+            download="Hareen_Edla_Resume.pdf"
+            className="btn-glass flex items-center gap-2 group"
+          >
             <Download className="w-5 h-5 group-hover:scale-110 transition-transform" />
             Download Resume
-          </button>
+          </a>
         </motion.div>
 
         {/* Scroll Indicator */}
