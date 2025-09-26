@@ -155,15 +155,15 @@ export const certifications = [
 
 export const education = [
   {
-    degree: "Master of Science in Data Science",
-    school: "University of Missouri",
-    year: "2019",
-    details: "Specialized in machine learning and big data analytics"
+    degree: "Master of Science in Information Systems",
+    school: "Saint Louis University",
+    year: "2023 - 2025",
+    details: "Advanced studies in information systems and data management"
   },
   {
     degree: "Bachelor of Science in Computer Science",
-    school: "State University",
-    year: "2017",
-    details: "Focus on database systems and software engineering"
+    school: "Saint Mary's College",
+    year: "2019 - 2022",
+    details: "Foundation in computer science principles and programming"
   }
 ];
